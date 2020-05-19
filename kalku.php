@@ -24,7 +24,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 + $b2;
 echo "------------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result : ".$hasil."\n";
 echo "------------------\n";
 exit();
 
@@ -35,7 +35,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 - $b2;
 echo "---------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result : ".$hasil."\n";
 echo "---------------\n";
 exit();
 
@@ -46,7 +46,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 * $b2;
 echo "----------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result : ".$hasil."\n";
 echo "----------------\n";
 exit();
 
@@ -57,7 +57,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 / $b2;
 echo "----------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result  ".$hasil."\n";
 echo "----------------\n";
 exit();
 
@@ -68,7 +68,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 % $b2;
 echo "----------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result : ".$hasil."\n";
 echo "----------------\n";
 exit();
 
@@ -79,7 +79,7 @@ echo "Input number 2 : ";
 $b2 = trim(fgets(STDIN));
 $hasil = $b1 ** $b2;
 echo "----------------\n";
-echo "Hasilnya : ".$hasil."\n";
+echo "Result : ".$hasil."\n";
 echo "----------------\n";
 exit();
 
